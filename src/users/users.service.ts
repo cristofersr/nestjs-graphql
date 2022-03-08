@@ -11,8 +11,8 @@ import { User } from "./models/user";
 export class UsersService {
     private users: User[] = [
         {
-            email: 'dan@example.com',
-            password: 'mypassword',
+            email: 'crobles@sbpay.cl',
+            password: '123456',
             userId: '123',
             age: 20,
         }
